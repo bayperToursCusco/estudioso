@@ -1,0 +1,52 @@
+*{
+border: 0;
+margin: 0;
+padding: 0;
+}
+body
+{
+background: #ccc;
+}
+#contenedor{
+  background: white;
+  height: 1200px;
+  width: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+header,#banner,#noticias.#tienda,#marcas {
+background: #fff;
+width: 780px;
+height: 100px;
+}
+#banner{
+  background: orange;
+  height: 60px;
+}
+#noticias{
+  margin-top: 1em;
+  flex-direction: row;
+  background: green;
+  height: 220px;
+}
+
+#tienda{
+  background: blue;
+  height: 580px;
+}
+#marcas{
+  background: red;
+  height: 100px;
+}
+footer{
+  background: yellow;
+  width: 1000px;
+  height: 500px;
+}
+#noticias1 #noticias{
+  background: blue;
+  width: 240px;
+  height: 220px;
+  float: right;
+}

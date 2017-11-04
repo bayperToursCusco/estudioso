@@ -1,0 +1,63 @@
+{
+margin: 0;
+padding: 0;
+}
+
+#contenedor{
+
+  width: 1200px;
+  height: 1000px;
+  margin: 0.5em auto;
+  background: #189B13;
+  padding: 0.5em;
+}
+#header{
+  height: 15%;
+  border-radius: 1em;
+  margin: 1em;
+}
+#mav{
+  height: 10%;
+  background: #424242;
+  border-radius: 1em;
+  margin: 1em;
+}
+#contenido{
+  height: 63%;
+  margin: 1em;
+}
+#footer{
+  height: 5%;
+  background: #424242;
+  border-radius: 1em;
+  margin: 1em;
+}
+#section{
+  height: 95%;
+  width: 69%;
+  background:#424242 ;
+  border-radius: 1em;
+  float: left;
+  margin: 0.5em;
+}
+#aside{
+height: 95%;
+width: 25%;
+background: black;
+border-radius: 1em;
+float: right;
+margin: 0.5em;
+}
+.articulo{
+
+width: 95%;
+height: 20%;
+background: WHITE;
+margin: 1em;
+border-radius: 1em;
+}
+body{
+  background: url(css/cusco4.JPG) no-repeat fixed center center #333;
+  background-size: cover;
+
+}
