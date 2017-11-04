@@ -1,2 +1,0 @@
-# estudioso
-estudioso-bayper
